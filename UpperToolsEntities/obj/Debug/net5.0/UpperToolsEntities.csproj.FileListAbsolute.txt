@@ -1,0 +1,12 @@
+C:\UpperTools\UpperToolsWebApplication\UpperToolsEntities\bin\Debug\net5.0\UpperToolsEntities.deps.json
+C:\UpperTools\UpperToolsWebApplication\UpperToolsEntities\bin\Debug\net5.0\UpperToolsEntities.dll
+C:\UpperTools\UpperToolsWebApplication\UpperToolsEntities\bin\Debug\net5.0\ref\UpperToolsEntities.dll
+C:\UpperTools\UpperToolsWebApplication\UpperToolsEntities\bin\Debug\net5.0\UpperToolsEntities.pdb
+C:\UpperTools\UpperToolsWebApplication\UpperToolsEntities\obj\Debug\net5.0\UpperToolsEntities.csproj.AssemblyReference.cache
+C:\UpperTools\UpperToolsWebApplication\UpperToolsEntities\obj\Debug\net5.0\UpperToolsEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\UpperTools\UpperToolsWebApplication\UpperToolsEntities\obj\Debug\net5.0\UpperToolsEntities.AssemblyInfoInputs.cache
+C:\UpperTools\UpperToolsWebApplication\UpperToolsEntities\obj\Debug\net5.0\UpperToolsEntities.AssemblyInfo.cs
+C:\UpperTools\UpperToolsWebApplication\UpperToolsEntities\obj\Debug\net5.0\UpperToolsEntities.csproj.CoreCompileInputs.cache
+C:\UpperTools\UpperToolsWebApplication\UpperToolsEntities\obj\Debug\net5.0\UpperToolsEntities.dll
+C:\UpperTools\UpperToolsWebApplication\UpperToolsEntities\obj\Debug\net5.0\ref\UpperToolsEntities.dll
+C:\UpperTools\UpperToolsWebApplication\UpperToolsEntities\obj\Debug\net5.0\UpperToolsEntities.pdb
