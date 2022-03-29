@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UpperToolsApplication/1.0.0": {
+        "dependencies": {
+          "UpperToolsDomain": "1.0.0"
+        },
+        "runtime": {
+          "UpperToolsApplication.dll": {}
+        }
+      },
+      "UpperToolsDomain/1.0.0": {
+        "runtime": {
+          "UpperToolsDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UpperToolsApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UpperToolsDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0AAB6ZlZ6hJftVzI5AaBPIY7UXeErmjKjPLihpS0tJsa/CMEAYQ8UAnnc/cohPJlQdiK6IYFRektivXAPEhLxg==",
-  "success": false,
-  "projectFilePath": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsDomain\\UpperToolsDomain.csproj",
+  "dgSpecHash": "DG7OIXDVwJiJsMGAhKcx3eXnXgxPVv+3TgI5nqxPycXGgxWAvV7VVVfeoa+K2FBTgas4jtjaA67EhZL/Cpvjow==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\UpperTools_DDD\\UpperToolsDomain\\UpperToolsDomain.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Não é possível encontrar o projeto 'C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsEntities\\Entities.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsEntities\\Entities.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "logs": []
 }

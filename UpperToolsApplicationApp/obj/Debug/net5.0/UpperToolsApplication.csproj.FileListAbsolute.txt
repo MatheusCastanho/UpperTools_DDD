@@ -1,0 +1,15 @@
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\bin\Debug\net5.0\UpperToolsApplication.deps.json
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\bin\Debug\net5.0\UpperToolsApplication.dll
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\bin\Debug\net5.0\ref\UpperToolsApplication.dll
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\bin\Debug\net5.0\UpperToolsApplication.pdb
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\bin\Debug\net5.0\UpperToolsDomain.dll
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\bin\Debug\net5.0\UpperToolsDomain.pdb
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\obj\Debug\net5.0\UpperToolsApplication.csproj.AssemblyReference.cache
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\obj\Debug\net5.0\UpperToolsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\obj\Debug\net5.0\UpperToolsApplication.AssemblyInfoInputs.cache
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\obj\Debug\net5.0\UpperToolsApplication.AssemblyInfo.cs
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\obj\Debug\net5.0\UpperToolsApplication.csproj.CoreCompileInputs.cache
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\obj\Debug\net5.0\UpperToolsApplication.csproj.CopyComplete
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\obj\Debug\net5.0\UpperToolsApplication.dll
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\obj\Debug\net5.0\ref\UpperToolsApplication.dll
+C:\dev\UpperTools_DDD\UpperToolsApplicationApp\obj\Debug\net5.0\UpperToolsApplication.pdb

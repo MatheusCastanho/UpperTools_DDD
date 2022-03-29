@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "71r7ysHfy6FUbbTwRfKSB6OYakWxdV+UpIGMP7WXfDxrxDtkKj6rmA1mbeDJLVpwHhxhd/qmZ1IECDZi8FSdKA==",
+  "dgSpecHash": "JRLHejSQYrL2raCvfyasYqv1YjHLeWKzlolZFCsGWKm6IaFK0SXqIjHBYnEqQAvqCrRQQXHDf+dw1yLERqNzAQ==",
   "success": true,
-  "projectFilePath": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsWebApplication2022\\UpperToolsWebApplication2022.csproj",
+  "projectFilePath": "C:\\dev\\UpperTools_DDD\\UpperToolsWebApplication2022\\UpperToolsWebApplication2022.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

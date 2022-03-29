@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsApplicationApp\\UpperToolsApplicationApp.csproj": {}
+    "C:\\dev\\UpperTools_DDD\\UpperToolsApplicationApp\\UpperToolsApplicationApp.csproj": {}
   },
   "projects": {
-    "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsApplicationApp\\UpperToolsApplicationApp.csproj": {
+    "C:\\dev\\UpperTools_DDD\\UpperToolsApplicationApp\\UpperToolsApplicationApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsApplicationApp\\UpperToolsApplicationApp.csproj",
+        "projectUniqueName": "C:\\dev\\UpperTools_DDD\\UpperToolsApplicationApp\\UpperToolsApplicationApp.csproj",
         "projectName": "UpperToolsApplicationApp",
-        "projectPath": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsApplicationApp\\UpperToolsApplicationApp.csproj",
-        "packagesPath": "C:\\Users\\matheus.castanho\\.nuget\\packages\\",
-        "outputPath": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsApplicationApp\\obj\\",
+        "projectPath": "C:\\dev\\UpperTools_DDD\\UpperToolsApplicationApp\\UpperToolsApplicationApp.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\UpperTools_DDD\\UpperToolsApplicationApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matheus.castanho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsDomain\\UpperToolsDomain.csproj": {
-                "projectPath": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsDomain\\UpperToolsDomain.csproj"
+              "C:\\dev\\UpperTools_DDD\\UpperToolsDomain\\UpperToolsDomain.csproj": {
+                "projectPath": "C:\\dev\\UpperTools_DDD\\UpperToolsDomain\\UpperToolsDomain.csproj"
               }
             }
           }
@@ -62,17 +62,17 @@
         }
       }
     },
-    "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsDomain\\UpperToolsDomain.csproj": {
+    "C:\\dev\\UpperTools_DDD\\UpperToolsDomain\\UpperToolsDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsDomain\\UpperToolsDomain.csproj",
+        "projectUniqueName": "C:\\dev\\UpperTools_DDD\\UpperToolsDomain\\UpperToolsDomain.csproj",
         "projectName": "UpperToolsDomain",
-        "projectPath": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsDomain\\UpperToolsDomain.csproj",
-        "packagesPath": "C:\\Users\\matheus.castanho\\.nuget\\packages\\",
-        "outputPath": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsDomain\\obj\\",
+        "projectPath": "C:\\dev\\UpperTools_DDD\\UpperToolsDomain\\UpperToolsDomain.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\UpperTools_DDD\\UpperToolsDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matheus.castanho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,8 +86,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsEntities\\Entities.csproj": {
-                "projectPath": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsEntities\\Entities.csproj"
+              "C:\\dev\\UpperTools_DDD\\UpperToolsEntities\\Entities.csproj": {
+                "projectPath": "C:\\dev\\UpperTools_DDD\\UpperToolsEntities\\Entities.csproj"
               }
             }
           }

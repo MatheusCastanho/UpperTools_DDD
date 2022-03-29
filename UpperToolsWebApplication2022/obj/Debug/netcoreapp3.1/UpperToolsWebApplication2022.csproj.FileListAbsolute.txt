@@ -1,0 +1,8 @@
+C:\dev\UpperTools_DDD\UpperToolsWebApplication2022\obj\Debug\netcoreapp3.1\UpperToolsWebApplication2022.csproj.AssemblyReference.cache
+C:\dev\UpperTools_DDD\UpperToolsWebApplication2022\obj\Debug\netcoreapp3.1\UpperToolsWebApplication2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\UpperTools_DDD\UpperToolsWebApplication2022\obj\Debug\netcoreapp3.1\UpperToolsWebApplication2022.AssemblyInfoInputs.cache
+C:\dev\UpperTools_DDD\UpperToolsWebApplication2022\obj\Debug\netcoreapp3.1\UpperToolsWebApplication2022.AssemblyInfo.cs
+C:\dev\UpperTools_DDD\UpperToolsWebApplication2022\obj\Debug\netcoreapp3.1\UpperToolsWebApplication2022.csproj.CoreCompileInputs.cache
+C:\dev\UpperTools_DDD\UpperToolsWebApplication2022\obj\Debug\netcoreapp3.1\UpperToolsWebApplication2022.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\UpperTools_DDD\UpperToolsWebApplication2022\obj\Debug\netcoreapp3.1\UpperToolsWebApplication2022.RazorAssemblyInfo.cache
+C:\dev\UpperTools_DDD\UpperToolsWebApplication2022\obj\Debug\netcoreapp3.1\UpperToolsWebApplication2022.RazorAssemblyInfo.cs

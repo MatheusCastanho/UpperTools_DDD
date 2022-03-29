@@ -1,0 +1,11 @@
+C:\dev\UpperTools_DDD\UpperToolsDomain\bin\Debug\net5.0\UpperToolsDomain.deps.json
+C:\dev\UpperTools_DDD\UpperToolsDomain\bin\Debug\net5.0\UpperToolsDomain.dll
+C:\dev\UpperTools_DDD\UpperToolsDomain\bin\Debug\net5.0\ref\UpperToolsDomain.dll
+C:\dev\UpperTools_DDD\UpperToolsDomain\bin\Debug\net5.0\UpperToolsDomain.pdb
+C:\dev\UpperTools_DDD\UpperToolsDomain\obj\Debug\net5.0\UpperToolsDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\UpperTools_DDD\UpperToolsDomain\obj\Debug\net5.0\UpperToolsDomain.AssemblyInfoInputs.cache
+C:\dev\UpperTools_DDD\UpperToolsDomain\obj\Debug\net5.0\UpperToolsDomain.AssemblyInfo.cs
+C:\dev\UpperTools_DDD\UpperToolsDomain\obj\Debug\net5.0\UpperToolsDomain.csproj.CoreCompileInputs.cache
+C:\dev\UpperTools_DDD\UpperToolsDomain\obj\Debug\net5.0\UpperToolsDomain.dll
+C:\dev\UpperTools_DDD\UpperToolsDomain\obj\Debug\net5.0\ref\UpperToolsDomain.dll
+C:\dev\UpperTools_DDD\UpperToolsDomain\obj\Debug\net5.0\UpperToolsDomain.pdb

@@ -6,27 +6,31 @@ using System.Threading.Tasks;
 
 namespace UpperToolsInfrastructure.Configuration
 {
-    public class ContextBase : DbContext
+    public class ContextBase
+    //: DbContext
     {
-        public ContextBase(DbContextOptions<ContextBase> options) : base(options)
-        {
-            Database.EnsureCreated();
-        }
+        //    public ContextBase(DbContextOptions<ContextBase> options) : base(options)
+        //    {
+        //        Criar as tabelas
+        //            Database.EnsureCreated();
+        //    }
 
-        public DbSet<Product> Product { get; set; }
+        //public DbSet<Despesas> Depesas {get ; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            // Se não estiver configurado no projeto IU pega deginição de chame do json configurado
-            if (!optionsBuilder.IsConfigured)
-                optionsBuilder.UseSqlServer(GetStringConectionConfig());
-            base.OnConfiguring(optionsBuilder);
-        }
+    //    public DbSet<Product> Product { get; set; }
 
-        private string GetStringConectionConfig()
-        {
-            string strCon = /*"ConexãoBancoUpperTools";*/
-            return strCon;
-        }
+    //    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    //    {
+    //        // Se não estiver configurado no projeto IU pega deginição de chame do json configurado
+    //        if (!optionsBuilder.IsConfigured)
+    //            optionsBuilder.UseSqlServer(GetStringConectionConfig());
+    //        base.OnConfiguring(optionsBuilder);
+    //    }
+
+    //    private string GetStringConectionConfig()
+    //    {
+    //        string strCon = /*"ConexãoBancoUpperTools";*/
+    //            return strCon;
+    //    }
     }
 }

@@ -5,9 +5,6 @@
       "UpperToolsDomain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsEntities\\Entities.csproj": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/UpperToolsDomain.dll": {}
         },
@@ -30,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\matheus.castanho\\.nuget\\packages\\": {}
+    "C:\\Users\\mathe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsApplicationApp\\UpperToolsApplicationApp.csproj",
-      "projectName": "UpperToolsApplicationApp",
-      "projectPath": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsApplicationApp\\UpperToolsApplicationApp.csproj",
-      "packagesPath": "C:\\Users\\matheus.castanho\\.nuget\\packages\\",
-      "outputPath": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsApplicationApp\\obj\\",
+      "projectUniqueName": "C:\\dev\\UpperTools_DDD\\UpperToolsApplicationApp\\UpperToolsApplication.csproj",
+      "projectName": "UpperToolsApplication",
+      "projectPath": "C:\\dev\\UpperTools_DDD\\UpperToolsApplicationApp\\UpperToolsApplication.csproj",
+      "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\UpperTools_DDD\\UpperToolsApplicationApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\matheus.castanho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsDomain\\UpperToolsDomain.csproj": {
-              "projectPath": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsDomain\\UpperToolsDomain.csproj"
+            "C:\\dev\\UpperTools_DDD\\UpperToolsDomain\\UpperToolsDomain.csproj": {
+              "projectPath": "C:\\dev\\UpperTools_DDD\\UpperToolsDomain\\UpperToolsDomain.csproj"
             }
           }
         }
@@ -89,16 +86,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Não é possível encontrar o projeto 'C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsEntities\\Entities.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "C:\\UpperTools\\UpperToolsWebApplication\\UpperToolsEntities\\Entities.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  }
 }
